@@ -2,7 +2,6 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Pursuing BE in Information Technology at Shree Lr Tiwari College of Engineering.
 - 🌱 &nbsp; Learning more about Fullstack Webdevelopment.
 
