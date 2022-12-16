@@ -34,7 +34,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/kunal-salunkhe-736341259/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/kunal-salunkhe-736341259/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kunal__1620/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:salunkhekunal594@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
 </p>
