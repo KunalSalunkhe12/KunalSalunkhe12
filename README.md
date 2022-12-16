@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Kunal Rajesh Salunkhe</h2>
+<h2> Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Kunal Rajesh Salunkhe</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
