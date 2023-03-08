@@ -7,13 +7,9 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp;
-  [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-  
-- 🌐 &nbsp;
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,tailwind)](https://skillicons.dev)
-- ⚙️ &nbsp;
-  [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,tailwind)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
   
 <br/>
 
