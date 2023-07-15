@@ -3,12 +3,12 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Pursuing BE in Information Technology at Shree Lr Tiwari College of Engineering.
-- 🌱 &nbsp; Learning more about Frontend Web-Development.
+- 🌱 &nbsp; Currently learning Backend Web development - Node.js.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,tailwind)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,tailwind,astro)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
   
 <br/>
@@ -17,6 +17,6 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kunal-salunkhe12/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://kunalsalunkhe12.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-kunalsalunkhe12-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://kunalsalunkhe.me/"><img alt="Website" src="https://img.shields.io/badge/Website-kunalsalunkhe12-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:salunkhekunal594@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
