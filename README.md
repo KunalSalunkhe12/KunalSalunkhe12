@@ -3,12 +3,12 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Pursuing BE in Information Technology at Shree Lr Tiwari College of Engineering.
-- 🌱 &nbsp; Currently learning Backend Web development - Node.js.
+- 🌱 &nbsp; Currently learning Backend Web development - Next.js.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,react,redux,tailwind,astro)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=cpp,js,ts)](https://skillicons.dev)
+- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,tailwind,astro)](https://skillicons.dev)
 - [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
   
 <br/>
