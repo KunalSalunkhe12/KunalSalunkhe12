@@ -7,9 +7,11 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- [![My Skills](https://skillicons.dev/icons?i=cpp,js,ts)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,react,redux,tailwind,astro)](https://skillicons.dev)
-- [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+- [![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=cplusplus,javascript,typescript)
+- [![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=html,css,react,redux,reactrouter,reactquery,reacthookform,tailwindcss,astro,zod)
+- [![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=nodedotjs,mongodb,mongoose,jsonwebtokens)
+- [![My Skills]([https://simpleskill.icons.workers.dev/svg]?i=git,github,vim)
+
   
 <br/>
 
