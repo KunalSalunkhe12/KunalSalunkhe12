@@ -8,7 +8,7 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - ![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,javascript,typescript)
-- ![My Skills](https://simpleskill.icons.workers.dev/svg?i=html,css,react,redux,reactrouter,reactquery,reacthookform,tailwindcss,astro,zod)
+- ![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,react,redux,reactrouter,reactquery,reacthookform,tailwindcss,astro,zod)
 - ![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,mongodb,mongoose,jsonwebtokens)
 - ![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,vim)
 
