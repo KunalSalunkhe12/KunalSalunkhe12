@@ -7,10 +7,10 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,javascript,typescript)
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,react,redux,reactrouter,reactquery,reacthookform,tailwindcss,astro,zod)
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,mongodb,mongoose,jsonwebtokens)
-![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,vim)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=cplusplus,javascript,typescript&perline=4)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=html5,css3,react,redux,reactrouter,reactquery,reacthookform,tailwindcss,astro,zod&perline=4)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,mongodb,mongoose,jsonwebtokens&perline=4)
+![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,vim&perline=4)
 
   
 <br/>
