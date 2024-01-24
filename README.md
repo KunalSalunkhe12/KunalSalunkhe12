@@ -9,7 +9,7 @@
 
 - <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,javascript,typescript" height="40px" />
 - <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,react,redux,reactrouter,reactquery,reacthookform,tailwindcss,astro,zod" height="40px"/>
-- <img src="https://simpleskill.icons.workers.dev/svg?i=nodedotjs,mongodb,mongoose,jsonwebtokens" height="40px"/>
+- <img src="https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,nestjs,mongodb,mongoose,jsonwebtokens" height="40px"/>
 - <img src="https://simpleskill.icons.workers.dev/svg?i=git,github,vim" height="40px"/>
   
 <br/>
