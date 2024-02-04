@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Pursuing BE in Information Technology at Shree Lr Tiwari College of Engineering.
-- 🌱 &nbsp; Currently learning Backend Web development - Next.js.
+- 🌱 &nbsp; Currently learning Backend Web development
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
