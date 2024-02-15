@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Pursuing BE in Information Technology at Shree Lr Tiwari College of Engineering.
+- 🎓 &nbsp; Pursuing BE in Information Technology at Shree L.r Tiwari College of Engineering.
 - 🌱 &nbsp; Currently learning Backend Web development
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -11,7 +11,7 @@
 - <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,react,redux,reactrouter,reactquery,reacthookform,tailwindcss,astro,zod" height="40px"/>
 - <img src="https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,nestjs,mongodb,mongoose,jsonwebtokens" height="40px"/>
 - <img src="https://simpleskill.icons.workers.dev/svg?i=git,github,vim" height="40px"/>
-  
+
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
