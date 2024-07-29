@@ -18,6 +18,5 @@
 
 <p align="center">
 <a href="https://www.linkedin.com/in/kunal-salunkhe12/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://kunalsalunkhe.me/"><img alt="Website" src="https://img.shields.io/badge/Website-kunalsalunkhe12-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:salunkhekunal594@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail"></a>
 </p>
