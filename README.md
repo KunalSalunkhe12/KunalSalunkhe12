@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Pursuing BE in Information Technology at Shree L.r Tiwari College of Engineering.
+- 🎓 &nbsp; Completed BE in Information Technology at Shree L.r Tiwari College of Engineering.
 - 🌱 &nbsp; Currently learning more about Backend Development
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
