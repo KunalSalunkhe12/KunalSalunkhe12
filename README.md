@@ -8,9 +8,9 @@
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,javascript,typescript" height="40px" />
-- <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,react,redux,reactrouter,reactquery,reacthookform,tailwindcss,astro,zod" height="40px"/>
-- <img src="https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,nestjs,mongodb,mongoose,jsonwebtokens" height="40px"/>
-- <img src="https://simpleskill.icons.workers.dev/svg?i=git,github,vim" height="40px"/>
+- <img src="https://simpleskill.icons.workers.dev/svg?i=html5,css3,bootstrap,react,nextjs,redux,reactrouter,reactquery,reacthookform,materialui,tailwindcss,astro,zod" height="40px"/>
+- <img src="https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,fastapi,flask,nestjs,mongodb,mongoose,mysql,redis,prisma,nginx,jsonwebtokens" height="40px"/>
+- <img src="https://simpleskill.icons.workers.dev/svg?i=git,github,vim,postman" height="40px"/>
 
 <br/>
 
