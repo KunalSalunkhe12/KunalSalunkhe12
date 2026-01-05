@@ -1,9 +1,5 @@
 <h2> Hey there!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> I'm Kunal Rajesh Salunkhe</h2>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
-
-- 🎓 &nbsp; Completed BE in Information Technology from Shree L.r Tiwari College of Engineering.
-- 🌱 &nbsp; Currently learning more about Backend Development
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 <img src="https://simpleskill.icons.workers.dev/svg?i=cplusplus,javascript,typescript,python" height="40px" />
